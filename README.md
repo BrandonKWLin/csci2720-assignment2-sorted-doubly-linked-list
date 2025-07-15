@@ -1,5 +1,5 @@
-⚠️ **DISCLAIMER:** This project is for learning and employment portfolio purposes only. Do **NOT** copy or submit this work as your own official assignment. Doing so constitutes an academic integrity violation.
-⚠️ This is for employment purposes, to be included in the projects section of my resume.
+- ⚠️ **DISCLAIMER:** This project is for learning and employment portfolio purposes only. Do **NOT** copy or submit this work as your own official assignment. Doing so constitutes an academic integrity violation.
+- ⚠️ This is for employment purposes, to be included in the projects section of my resume.
 
 # CSCI 2720 - Assignment 2
 
